@@ -45,3 +45,21 @@ The dataset used for this project is taken from [Kaggle: Twitter Entity Sentimen
 **Final Model:** Random Forest with 200 estimators trained on the full dataset.  
 
 ---
+## Results
+
+The table below shows the accuracy of different machine learning models on the validation set:
+
+| Model                | Accuracy |
+|---------------------|----------|
+| Logistic Regression  | 0.865    |
+| Naive Bayes          | 0.745    |
+| Decision Tree        | 0.886    |
+| Random Forest        | 0.946    |
+| Linear SVM           | 0.904    |
+
+**Key Insight:**  
+- **Random Forest** achieved the highest accuracy (0.946) across all classes.  
+- It demonstrates the best balance between precision, recall, and F1-score.  
+- Therefore, Random Forest is selected as the **final model** for deployment and further predictions.
+
+---
